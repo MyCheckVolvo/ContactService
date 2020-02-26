@@ -1,0 +1,22 @@
+{
+    "EA300QQ": [
+        {
+            "companyName": "Volvo",
+            "name": "John Doe",
+            "phoneNumber": "+33 00 00 00 01",
+            "email": "john.doe@volvo.com"
+        },
+        {
+            "companyName": "Mercedez",
+            "name": "Patrick Martin",
+            "phoneNumber": "+33 00 00 00 02",
+            "email": "patrick.martin@mercedez.com"
+        },
+        {
+            "companyName": "Volvo",
+            "name": "John Doe",
+            "phoneNumber": "+33 00 00 00 03",
+            "email": "john.doe@volvo.com"
+        }
+    ]
+}
