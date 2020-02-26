@@ -14,9 +14,17 @@
         },
         {
             "companyName": "Volvo",
-            "name": "John Doe",
-            "phoneNumber": "+33 00 00 00 03",
-            "email": "john.doe@volvo.com"
+            "name": "James Bond",
+            "phoneNumber": "+33 00 00 00 07",
+            "email": "james.bond@volvo.com"
         }
-    ]
+    ],
+    "EA568RP": [
+        {
+            "companyName": "Volvo",
+            "name": "James Bond",
+            "phoneNumber": "+33 00 00 00 07",
+            "email": "james.bond@volvo.com"
+        }
+    ],
 }
