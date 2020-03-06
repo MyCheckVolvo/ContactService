@@ -26,5 +26,45 @@
             "phoneNumber": "+33 00 00 00 07",
             "email": "james.bond@volvo.com"
         }
+    ],
+    "FJ474AK": [
+        {
+            "companyName": "Volvo",
+            "name": "Michel Dupont",
+            "phoneNumber": "+33 01 02 03 04",
+            "email": "m.dupont@volvo.com"
+        },
+        {
+            "companyName": "Volvo",
+            "name": "Raymond Dupond",
+            "phoneNumber": "+33 04 03 02 01",
+            "email": "r.dupond@volvo.com"
+        },
+        {
+            "companyName": "Volvo",
+            "name": "Archibald Haddock",
+            "phoneNumber": "+33 11 22 33 44",
+            "email": "a.haddock@volvo.com"
+        }
+    ],
+    "RTF123": [
+        {
+            "companyName": "Renault Trucks",
+            "name": "Bianca Castafiore",
+            "phoneNumber": "+33 44 33 22 11",
+            "email": "bianca.castafiore@renault-trucks.com"
+        },
+        {
+            "companyName": "Renault Trucks",
+            "name": "Milou",
+            "phoneNumber": "+33 04 03 02 01",
+            "email": "milou@renault-trucks.com"
+        },
+        {
+            "companyName": "Renault Trucks",
+            "name": "Tryphon Tournesol",
+            "phoneNumber": "+33 11 22 33 44",
+            "email": "pr.t.tournesol@renault-trucks.com"
+        }
     ]
 }
